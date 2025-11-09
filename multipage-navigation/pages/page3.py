@@ -1,6 +1,6 @@
 import streamlit as st 
 
-st.title("Main Page")
+st.title("Page 3")
 st.write("Kelompok 13")
 st.markdown("""
 - ROZA KURNIAWAN NUR WAKID (0110222124)
@@ -9,5 +9,4 @@ st.markdown("""
 """)
 
 # Second Page
-st.title("# Page 3")
-st.write("You have navigated to page one")
+st.write("You have navigated to page three")

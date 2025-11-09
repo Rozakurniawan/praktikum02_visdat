@@ -8,5 +8,4 @@ st.markdown("""
 - IMAD HASAN AQIL (0110221166)
 """)
 
-st.title("# Main Page")
 st.write("This is Main Page")
